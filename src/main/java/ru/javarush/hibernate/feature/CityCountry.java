@@ -1,4 +1,4 @@
-package ru.javarush.feature;
+package ru.javarush.hibernate.feature;
 
 
 import lombok.Getter;

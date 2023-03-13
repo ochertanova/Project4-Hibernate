@@ -7,8 +7,8 @@ import ru.javarush.hibernate.domain.City;
 import ru.javarush.hibernate.domain.Country;
 import ru.javarush.hibernate.domain.CountryLanguage;
 import ru.javarush.hibernate.repository.InitRepository;
-import ru.javarush.feature.CityCountry;
-import ru.javarush.feature.Language;
+import ru.javarush.hibernate.feature.CityCountry;
+import ru.javarush.hibernate.feature.Language;
 
 import java.util.List;
 import java.util.Set;

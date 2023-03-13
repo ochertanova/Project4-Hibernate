@@ -6,9 +6,9 @@
 ###Описание основных классов
 1. В пакете src/main/java/ru/javarush/hibernate/domain содержатся классы мапинга на одноименные таблицы в БД.
 2. В пакете src/main/java/ru/javarush/hibernate/dao содержатся классы для получения необходимых данных из таблиц БД
-3. В пакете src/main/java/ru/javarush/feature содержатся классы для описания необходимых сущностей для Redis и MySQL
-4. В пакете src/main/java/ru/javarush/repository инициализирует работу приложения (параметры подключения к БД MySQL, Redis, создание сессии, необходимых объектов)
-5. В пакете src/main/java/ru/javarush/service описывается логика получения данных их каждой БД
+3. В пакете src/main/java/ru/javarush/hibernate/feature содержатся классы для описания необходимых сущностей для Redis и MySQL
+4. В пакете src/main/java/ru/javarush/hibernate/repository инициализирует работу приложения (параметры подключения к БД MySQL, Redis, создание сессии, необходимых объектов)
+5. В пакете src/main/java/ru/javarush/hibernate/service описывается логика получения данных их каждой БД
 6. В пакете src/main/resources содержится файл spy.properties для просмотра запросов с параметрами, которые выполняет Hibernate
 
 ###Описание логики работы приложения

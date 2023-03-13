@@ -4,7 +4,7 @@ import ru.javarush.hibernate.domain.City;
 import ru.javarush.hibernate.repository.InitRepository;
 import ru.javarush.hibernate.service.ServiceForMySQL;
 import ru.javarush.hibernate.service.ServiceForRedis;
-import ru.javarush.feature.CityCountry;
+import ru.javarush.hibernate.feature.CityCountry;
 
 import java.util.List;
 

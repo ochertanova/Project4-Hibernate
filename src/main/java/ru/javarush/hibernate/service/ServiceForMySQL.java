@@ -1,6 +1,6 @@
 package ru.javarush.hibernate.service;
 import org.hibernate.Session;
-import ru.javarush.hibernate.Constants.Constants;
+import ru.javarush.hibernate.constants.Constants;
 import ru.javarush.hibernate.domain.City;
 import ru.javarush.hibernate.domain.Country;
 import ru.javarush.hibernate.domain.CountryLanguage;
